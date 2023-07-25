@@ -84,7 +84,7 @@ author:
   location         : "Nijmegen, the Netherlands"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=c0O_OSIAAAAJ&hl=nl"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,13 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/MMangnus/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/margotmangnus/"
   orcid            : "https://orcid.org/0000-0001-5531-4507"
   pinterest        :
   soundcloud       :
@@ -112,7 +112,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  osf              : "https://osf.io/j64y8/"
 
 
 # Reading Files
@@ -187,7 +187,10 @@ collections:
     permalink: /:collection/:path/
   other:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/   
+  teaching:
+    output: true
+    permalink: /:collection/:path/       
 
 
 # Defaults
@@ -252,7 +255,24 @@ defaults:
     values:
       layout: other
       author_profile: true
-      share: true      
+      share: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _presentations
+  - scope:
+      path: ""
+      type: presentations
+    values:
+      layout: single
+      author_profile: true
+      share: true            
 
 # Sass/SCSS
 sass:
