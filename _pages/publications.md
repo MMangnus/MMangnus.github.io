@@ -22,4 +22,4 @@ author_profile: true
 ## Theory of Mind in Autism Spectrum conditions: a task-based neuroimaging approach
 
 Mangnus, M., Koch, S.B.J., Greidanus Romaneli, M., Cai, K., Goltz, F., Hagoort, P., Toni, I., Stolk, A. & Bašnáková, J. (2022).
-Read on OSF [here](https://https://osf.io/gw6jp/).
+Read on OSF [here](https://osf.io/gw6jp/).
