@@ -17,6 +17,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## Preprints
+
+## Preserved spontaneous mentalizing amid reduced intersubject variability in autism during a movie narrative
+
+Mangnus, M., Koch, S.B.J., Cai, K., Greidanus Romaneli, M., Hagoort, P., Bašnáková, J. & Stolk, A. (2024).   
+ Read on bioRxiv [here](https://www.biorxiv.org/content/10.1101/2024.03.08.583911v1).
+
 ## Preregistrations
 
 ## Theory of Mind in Autism Spectrum conditions: a task-based neuroimaging approach
