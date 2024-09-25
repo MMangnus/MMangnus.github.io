@@ -7,11 +7,11 @@ redirect_from:
   - /other
 ---
 
-## PhD Council
+## *PhD Council*
 
 I have been an active member of the PhD council during 3.5 years of my PhD. There, I was involved in organizing events and workshops and advising on policy related to the PhD trajectory. Within the council, I was also part of the Mental Health committee, where we organized several workshops on mental health and started initiatives to better support PhD students. 
 
-## Blog posts aimed at general public
+## *Blog posts aimed at general public*
 
 For the online blog from the Neurobiology of Language lab, I wrote two blog posts aimed at the general public. You can read them here: 
 
