@@ -7,11 +7,13 @@ author_profile: true
 
 ## *Peer-reviewed Journal Articles*
 
-<b>Mangnus, M. </b>, Koch, S.B.J., Cai, K., Greidanus Romaneli, M., Hagoort, P., Bašnáková, J. & Stolk, A. (2024). Preserved spontaneous mentalizing amid reduced intersubject variability in autism during a movie narrative. (<i>accepted</i>) 
+Koch, S.B.J., <b>Mangnus, M.</b>, Devillers, R., Hagoort, P., Bašnáková, J. & Stolk, A. (<i>submitted</i>) Altered Theory of Mind Activation and Intersubject Neural Variability in Social Anxiety During Movie Viewing.
 
-Sierpowska, J., Bryant, K.L., Janssen, N., Blazquez Freches, G., Römkens, M., <b>Mangnus, M. </b>, Mars, R.B., Piai, V. (2022). Comparing human and chimpanzee temporal lobe neuroanatomy reveals modifications to human language hubs beyond the frontotemporal arcuate fasciculus. <i>Proceedings of the National Academy of Sciences.</i> 119 (28). [pdf](/files/Sierpowska2022.pdf)
+<b>Mangnus, M.</b>, Koch, S.B.J., Cai, K., Greidanus Romaneli, M., Hagoort, P., Bašnáková, J. & Stolk, A. (2024). Preserved spontaneous mentalizing amid reduced intersubject variability in autism during a movie narrative. (<i>in press</i>) [pdf](/files/Mangnus2024.pdf)
 
-Janssen, N., Roelofs, A., <b>Mangnus, M. </b>, Sierpowska, J., Kessels, R.P.C., Piai, V. How the speed of word finding depends on ventral tract integrity in primary progressive aphasia. <i>Neuroimage: Clinical </i> 28. [pdf](/files/Janssen2020.pdf)
+Sierpowska, J., Bryant, K.L., Janssen, N., Blazquez Freches, G., Römkens, M., <b>Mangnus, M.</b>, Mars, R.B., Piai, V. (2022). Comparing human and chimpanzee temporal lobe neuroanatomy reveals modifications to human language hubs beyond the frontotemporal arcuate fasciculus. <i>Proceedings of the National Academy of Sciences.</i> 119 (28). [pdf](/files/Sierpowska2022.pdf)
+
+Janssen, N., Roelofs, A., <b>Mangnus, M.</b>, Sierpowska, J., Kessels, R.P.C., Piai, V. How the speed of word finding depends on ventral tract integrity in primary progressive aphasia. <i>Neuroimage: Clinical </i> 28. [pdf](/files/Janssen2020.pdf)
 
 ## *Preprints*
 

@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<i> Page under construction </i>
+Click [here](/files/CV_MargotMangnus.pdf) to download my CV (in Dutch). 
