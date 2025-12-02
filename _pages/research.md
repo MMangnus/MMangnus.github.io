@@ -27,4 +27,4 @@ Janssen, N., Roelofs, A., <b>Mangnus, M.</b>, Sierpowska, J., Kessels, R.P.C., P
 
 ## *PhD Thesis*
 
-<b>Mangnus, M.</b> (2025) <i> When Communication is Hard: Neurocognitive Dynamics underlying Language and Communication in Autism and Social Anxiety.</i> [Doctoral Thesis, Radboud University Nijmegen]  [pdf](/files/PhDThesis.pdf)
+<b>Mangnus, M.</b> (2025) <i> When Communication is Hard: Neurocognitive Dynamics underlying Language and Communication in Autism and Social Anxiety.</i> [Doctoral Thesis, Radboud University Nijmegen]. [Radboud Repository](https://repository.ubn.ru.nl/handle/2066/325811)
