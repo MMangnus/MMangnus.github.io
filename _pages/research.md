@@ -24,3 +24,7 @@ Janssen, N., Roelofs, A., <b>Mangnus, M.</b>, Sierpowska, J., Kessels, R.P.C., P
 ## *Preregistrations*
 
 <b>Mangnus, M.</b>, Koch, S.B.J., Greidanus Romaneli, M., Cai, K., Goltz, F., Hagoort, P., Toni, I., Stolk, A. & Bašnáková, J. Theory of Mind in Autism Spectrum conditions: a task-based neuroimaging approach (2022). [OSF](https://osf.io/gw6jp/).
+
+## *PhD Thesis*
+
+<b>Mangnus, M.</b> (2025) <i> When Communication is Hard: Neurocognitive Dynamics underlying Language and Communication in Autism and Social Anxiety.</i> [Doctoral Thesis, Radboud University Nijmegen]  [pdf](/files/PhDThesis.pdf)
