@@ -7,9 +7,9 @@ author_profile: true
 
 ## *Peer-reviewed Journal Articles*
 
-Koch, S.B.J., <b>Mangnus, M.</b>, Devillers, R., Hagoort, P., Bašnáková, J. & Stolk, A. (<i>submitted</i>) Altered Theory of Mind Activation and Intersubject Neural Variability in Social Anxiety During Movie Viewing.
+Koch, S.B.J., <b>Mangnus, M.</b>, Devillers, R., Hagoort, P., Bašnáková, J. & Stolk, A. Altered Theory of Mind Engagement and Neural Alignment in Social Anxiety During Movie Viewing. (<i>in press for Biological Psychiatry: Global Open Science</i>) [pdf](/files/Koch2026.pdf)
 
-<b>Mangnus, M.</b>, Koch, S.B.J., Cai, K., Greidanus Romaneli, M., Hagoort, P., Bašnáková, J. & Stolk, A. (2024). Preserved spontaneous mentalizing amid reduced intersubject variability in autism during a movie narrative. (<i>in press</i>) [pdf](/files/Mangnus2024.pdf)
+<b>Mangnus, M.</b>, Koch, S.B.J., Cai, K., Greidanus Romaneli, M., Hagoort, P., Bašnáková, J. & Stolk, A. (2024). Preserved spontaneous mentalizing amid reduced intersubject variability in autism during a movie narrative. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i> 10 (10) [pdf](/files/Mangnus2024.pdf)
 
 Sierpowska, J., Bryant, K.L., Janssen, N., Blazquez Freches, G., Römkens, M., <b>Mangnus, M.</b>, Mars, R.B., Piai, V. (2022). Comparing human and chimpanzee temporal lobe neuroanatomy reveals modifications to human language hubs beyond the frontotemporal arcuate fasciculus. <i>Proceedings of the National Academy of Sciences.</i> 119 (28). [pdf](/files/Sierpowska2022.pdf)
 
