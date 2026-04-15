@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #hidden-content {
+      overflow: hidden;
+      transition: max-height 0.35s ease, opacity 0.35s ease;
+      max-height: 0;
+      opacity: 0;
+    }
+    #hidden-content.visible {
+      max-height: 400px;
+      opacity: 1;
+    }
+  </style>
+</head>
+<body>
+
+  <p style="font-size:3vw;">I can fly but I have no wings. I can cry but I have no eyes. Wherever I go, darkness follows me. What am I?</p>
+
+  <button onclick="toggle()">Show answer</button>
+
+  <div id="hidden-content">
+    <p style="font-size:3vw;">A cloud!</p>
+  </div>
+
+  <script>
+    function toggle() {
+      const content = document.getElementById('hidden-content');
+      const btn = document.querySelector('button');
+      const isVisible = content.classList.toggle('visible');
+      btn.textContent = isVisible ? 'Hide' : 'Show answer';
+    }
+  </script>
+
+</body>
+</html>
