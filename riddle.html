@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <head>
   <meta charset="UTF-8">
   <style>
@@ -17,12 +18,14 @@
 </head>
 <body>
 
-  <p style="font-size:3vw;">I can fly but I have no wings. I can cry but I have no eyes. Wherever I go, darkness follows me. What am I?</p>
+  <p style="font-size:18px; font-family: Arial;">I can fly but I have no wings. I can cry but I have no eyes. Wherever I go, darkness follows me. What am I?</p>
 
-  <button onclick="toggle()">Show answer</button>
+  <button onclick="toggle()" style="font-size: 16px; font-family: Arial; font-weight: bold; color: black; background-color: #ffffff; border: outset; padding: 5px 10px; border-radius: 6px; cursor: pointer;">
+  Show answer
+  </button>
 
   <div id="hidden-content">
-    <p style="font-size:3vw;">A cloud!</p>
+    <p style="font-size:18px; font-family: Arial;">A cloud!</p>
   </div>
 
   <script>
@@ -30,7 +33,7 @@
       const content = document.getElementById('hidden-content');
       const btn = document.querySelector('button');
       const isVisible = content.classList.toggle('visible');
-      btn.textContent = isVisible ? 'Hide' : 'Show answer';
+      btn.textContent = isVisible ? 'Hide answer' : 'Show answer';
     }
   </script>
 
